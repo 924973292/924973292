@@ -4,12 +4,10 @@
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=924973292&show_icons=true&icon_color=CE1D2D&text_color=718096" border=0 style="width: 300px; height: 300px;"></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=924973292&layout=compact" border=0 style="width: 300px; height: 300px;"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=LiQiang0307&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" / border=0>     </td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiQiang0307&layout=compact" border=0></td>
   </tr>
 </table>
-
-
 
 
 - This is a [**Song**](<https://app.suno.ai/song/a7e6c2d9-0479-4fa7-ad26-5410de3f06e5>) I created using Suno AI. The lyrics were written a year ago.
