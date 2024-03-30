@@ -4,6 +4,7 @@
 <a href="https://github.com/924973292">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=924973292&show_icons=true&theme=gruvbox&hide_title=true" alt="924973292" />
 </a>
+
 <a href="https://github.com/924973292">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=924973292&layout=compact" alt="924973292" />
 </a>
