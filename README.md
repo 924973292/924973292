@@ -1,16 +1,13 @@
 <h1 align="center">Hi 👋, I'm WYH</h1>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=924973292&theme=default)
-
-<p align="center">
 <a href="https://github.com/924973292">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=924973292&show_icons=true&theme=gruvbox&hide_title=true" alt="924973292" border=0/>
 </a>
-
 <a href="https://github.com/924973292">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=924973292&layout=compact" alt="924973292" border=0/>
 </a>
-</p>
+
 
 - This is a [**Song**](<https://app.suno.ai/song/a7e6c2d9-0479-4fa7-ad26-5410de3f06e5>) I created using Suno AI. The lyrics were written a year ago.
 - 📫 How to reach me **924973292@mail.dlut.edu.cn**    
