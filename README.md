@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm WYH</h1>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=924973292&theme=default)
-
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=924973292&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" / border=0>     </td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=924973292&layout=compact" border=0></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=924973292&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" border=0 style="width: 400px; height: 200px;"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=924973292&layout=compact" border=0 style="width: 400px; height: 200px;"></td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=924973292&theme=default" border=0 style="width: 800px; height: 200px;"></td>
   </tr>
 </table>
+
 
 
 - This is a [**Song**](<https://app.suno.ai/song/a7e6c2d9-0479-4fa7-ad26-5410de3f06e5>) I created using Suno AI. The lyrics were written a year ago.
