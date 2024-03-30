@@ -10,7 +10,7 @@
 </a>
 </p>
 
-- A [song](https://app.suno.ai/song/9876260b-43ec-4b8d-b15c-cc5cd2a30010) created by me with the Suno AI
+- This is a [**Song**](<https://app.suno.ai/song/9876260b-43ec-4b8d-b15c-cc5cd2a30010>) I created using Suno AI. The lyrics were written a year ago.
 - 📫 How to reach me **924973292@mail.dlut.edu.cn**    
 - <a href="https://924973292.github.io/">:boy: My personal homepage</a> 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=924973292" alt="924973292" /></p>
