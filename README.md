@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm WYH</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=900&lines=Hi+there+👋,+I+am+Yuhao+Wang.;+Welcome+to+My+Profile!)](https://git.io/typing-svg)
 
 <table>
   <tr>
