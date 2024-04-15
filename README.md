@@ -10,6 +10,7 @@
   </tr>
 </table>
 
+<a href="https://info.flagcounter.com/YBXi"><img src="https://s11.flagcounter.com/countxl/YBXi/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_56/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 
 
 - This is a [**Song**](<https://app.suno.ai/song/a7e6c2d9-0479-4fa7-ad26-5410de3f06e5>) I created using Suno AI. The lyrics were written a year ago.
