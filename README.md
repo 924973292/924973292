@@ -2,7 +2,7 @@
  
 [![](https://img.shields.io/badge/Homepage-blue?style=for-the-badge&logo=edge&logoColor=white)]([https://www.falcary.com/](https://924973292.github.io//))
 [![](https://img.shields.io/badge/Google%20Scholar-%234285F4.svg?style=for-the-badge&logo=google-scholar&logoColor=white)]([https://scholar.google.com/citations?user=Thyo5v4AAAAJ&hl=en](https://scholar.google.com/citations?user=WZvjVLkAAAAJ&hl=zh-CN&oi=sra))
-[![](https://img.shields.io/github/stars/SuperFCR?style=for-the-badge&logo=github&label=Github%20Stars&labelColor=gray&color=black)](https://github.com/924973292)
+[![](https://img.shields.io/github/stars/924973292?style=for-the-badge&logo=github&label=Github%20Stars&labelColor=gray&color=black)](https://github.com/924973292)
 
 <table>
   <tr>
