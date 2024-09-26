@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=900&lines=Hi+there+👋,+I+am+Yuhao+Wang.;+Welcome+to+My+Github!;+I'm+interested+in+Multi-modal+learning!;+Feel+free+to+ask+me+any+questions!)](https://git.io/typing-svg)
  
-[![](https://img.shields.io/badge/Homepage-000000?style=for-the-badge&logo=edge&logoColor=FFD700)](https://924973292.github.io//)
-[![](https://img.shields.io/badge/Google%20Scholar-000000?style=for-the-badge&logo=google-scholar&logoColor=FFD700)](https://scholar.google.com/citations?user=WZvjVLkAAAAJ&hl=zh-CN&oi=sra)
-[![](https://img.shields.io/github/stars/924973292?style=for-the-badge&logo=github&label=Stars&labelColor=000000&color=FFD700)](https://github.com/924973292)
+[![](https://img.shields.io/badge/Homepage-000000?style=for-the-badge&logo=edge&logoColor=FFFFFF)](https://924973292.github.io//)
+[![](https://img.shields.io/badge/Google%20Scholar-000000?style=for-the-badge&logo=google-scholar&logoColor=FFFFFF)](https://scholar.google.com/citations?user=WZvjVLkAAAAJ&hl=zh-CN&oi=sra)
+[![](https://img.shields.io/github/stars/924973292?style=for-the-badge&logo=github&label=Stars&labelColor=000000&color=FFFFFF)](https://github.com/924973292)
 
 
 <table>
