@@ -37,25 +37,28 @@
 </div>
 
 <!-- 添加猫咪彩蛋 -->
-<div align="center" style="position: relative;">
-  <div style="width: 300px; height: 200px; background-color: #f0f8ff; border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); display: flex; justify-content: center; align-items: center; cursor: pointer;">
-    🐱 Click！
+<div align="center">
+  <button id="catTrigger" style="background-color: #FF6B6B; color: white; border: none; padding: 10px 20px; border-radius: 10px; cursor: pointer; font-size: 16px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+    🐾 发现彩蛋！
+  </button>
+  <div id="catContainer" style="display: none; margin-top: 20px;">
+    <img src="https://cdn.jsdelivr.net/gh/924973292/cat-widget@main/cat-typing.gif" 
+         alt="Coding Cat" 
+         style="border-radius: 15px; box-shadow: 0 8px 16px rgba(0,0,0,0.2); width: 300px;"/>
   </div>
-  <img src="https://cdn.jsdelivr.net/gh/924973292/cat-widget@main/cat-typing.gif" 
-       alt="Coding Cat" 
-       style="border-radius: 15px; margin: 20px 0; box-shadow: 0 8px 16px rgba(0,0,0,0.2); width: 300px; position: absolute; top: 0; left: 0; opacity: 0; transition: opacity 0.3s ease-in-out;" 
-       id="catEgg"/>
 </div>
 
 <script>
-  const catEgg = document.getElementById('catEgg');
-  const container = catEgg.parentElement;
+  const triggerButton = document.getElementById('catTrigger');
+  const catContainer = document.getElementById('catContainer');
 
-  container.addEventListener('mouseenter', () => {
-    catEgg.style.opacity = '1';
-  });
-
-  container.addEventListener('mouseleave', () => {
-    catEgg.style.opacity = '0';
+  triggerButton.addEventListener('click', () => {
+    if (catContainer.style.display === 'none') {
+      catContainer.style.display = 'block';
+      triggerButton.textContent = '🐾 收起彩蛋';
+    } else {
+      catContainer.style.display = 'none';
+      triggerButton.textContent = '🐾 发现彩蛋！';
+    }
   });
 </script>
