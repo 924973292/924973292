@@ -35,7 +35,7 @@
       🐾 Click！
     </summary>
     <div style="margin-top: 20px;">
-      <img src="https://github.com/924973292/924973292/cat.gif" 
+      <img src="https://github.com/924973292/924973292/blob/master/cat.gif" 
            alt="Coding Cat" 
            style="border-radius: 15px; box-shadow: 0 8px 16px rgba(0,0,0,0.2); width: 300px;"/>
     </div>
