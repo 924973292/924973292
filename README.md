@@ -32,10 +32,10 @@
 <div align="center">
   <details>
     <summary style="background-color: #FF6B6B; color: white; border: none; padding: 10px 20px; border-radius: 10px; cursor: pointer; font-size: 16px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-      🐾 发现彩蛋！
+      🐾 Click！
     </summary>
     <div style="margin-top: 20px;">
-      <img src="https://cdn.jsdelivr.net/gh/924973292/cat-widget@main/cat-typing.gif" 
+      <img src="https://github.com/924973292/924973292/cat.gif" 
            alt="Coding Cat" 
            style="border-radius: 15px; box-shadow: 0 8px 16px rgba(0,0,0,0.2); width: 300px;"/>
     </div>
