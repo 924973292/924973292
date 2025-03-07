@@ -38,27 +38,14 @@
 
 <!-- 添加猫咪彩蛋 -->
 <div align="center">
-  <button id="catTrigger" style="background-color: #FF6B6B; color: white; border: none; padding: 10px 20px; border-radius: 10px; cursor: pointer; font-size: 16px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-    🐾 发现彩蛋！
-  </button>
-  <div id="catContainer" style="display: none; margin-top: 20px;">
-    <img src="https://cdn.jsdelivr.net/gh/924973292/cat-widget@main/cat-typing.gif" 
-         alt="Coding Cat" 
-         style="border-radius: 15px; box-shadow: 0 8px 16px rgba(0,0,0,0.2); width: 300px;"/>
-  </div>
+  <details>
+    <summary style="background-color: #FF6B6B; color: white; border: none; padding: 10px 20px; border-radius: 10px; cursor: pointer; font-size: 16px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+      🐾 发现彩蛋！
+    </summary>
+    <div style="margin-top: 20px;">
+      <img src="https://cdn.jsdelivr.net/gh/924973292/cat-widget@main/cat-typing.gif" 
+           alt="Coding Cat" 
+           style="border-radius: 15px; box-shadow: 0 8px 16px rgba(0,0,0,0.2); width: 300px;"/>
+    </div>
+  </details>
 </div>
-
-<script>
-  const triggerButton = document.getElementById('catTrigger');
-  const catContainer = document.getElementById('catContainer');
-
-  triggerButton.addEventListener('click', () => {
-    if (catContainer.style.display === 'none') {
-      catContainer.style.display = 'block';
-      triggerButton.textContent = '🐾 收起彩蛋';
-    } else {
-      catContainer.style.display = 'none';
-      triggerButton.textContent = '🐾 发现彩蛋！';
-    }
-  });
-</script>
