@@ -13,7 +13,7 @@
     <td colspan="2">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=924973292&theme=radical" 
            alt="Profile Details" 
-           style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
+           style="border-radius: 30px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
     </td>
   </tr>
   <tr>
