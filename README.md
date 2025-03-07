@@ -5,19 +5,19 @@
     <td colspan="2" style="text-align: center; padding: 10px;">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=924973292&theme=radical" 
            alt="Profile Details" 
-           style="border-radius: 30px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); width: 100%; max-width: 600px; height: auto;"/>
+           style="border-radius: 30px; box-shadow: 0 4px 8px rgba(255,215,0,0.3); width: 100%; max-width: 600px; height: auto;"/>
     </td>
   </tr>
   <tr>
     <td style="text-align: center; vertical-align: middle; padding: 10px;">
       <img src="https://github-readme-stats.vercel.app/api?username=924973292&show_icons=true&theme=merko&hide_title=true" 
            alt="GitHub Stats" 
-           style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); width: 100%; max-width: 300px; height: auto;"/>
+           style="border-radius: 15px; box-shadow: 0 4px 8px rgba(255,215,0,0.3); width: 100%; max-width: 300px; height: auto;"/>
     </td>
     <td style="text-align: center; vertical-align: middle; padding: 10px;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=924973292&layout=compact&theme=tokyonight" 
            alt="Top Languages" 
-           style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); width: 100%; max-width: 300px; height: auto;"/>
+           style="border-radius: 15px; box-shadow: 0 4px 8px rgba(255,215,0,0.3); width: 100%; max-width: 300px; height: auto;"/>
     </td>
   </tr>
 </table>
@@ -25,7 +25,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=924973292&style=flat-square&color=blueviolet" 
        alt="Visitor Count" 
-       style="margin: 20px 0; box-shadow: 0 4px 8px rgba(0,0,0,0.1); border-radius: 10px;"/>
+       style="margin: 20px 0; box-shadow: 0 4px 8px rgba(255,215,0,0.3); border-radius: 10px;"/>
 </div>
 
 <!-- 添加猫咪彩蛋 -->
@@ -37,7 +37,7 @@
     <div style="margin-top: 20px;">
       <img src="https://github.com/924973292/924973292/blob/master/cat.gif" 
            alt="Coding Cat" 
-           style="border-radius: 15px; box-shadow: 0 8px 16px rgba(0,0,0,0.2); width: 300px;"/>
+           style="border-radius: 15px; box-shadow: 0 8px 16px rgba(255,215,0,0.3); width: 300px;"/>
     </div>
   </details>
 </div>
