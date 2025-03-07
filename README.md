@@ -8,24 +8,24 @@
   🐾
 </div>
 
-<table>
+<table style="width: 100%; border-collapse: collapse; margin: 20px 0;">
   <tr>
-    <td colspan="2">
+    <td colspan="2" style="text-align: center; padding: 10px;">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=924973292&theme=radical" 
            alt="Profile Details" 
-           style="border-radius: 30px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
+           style="border-radius: 30px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); width: 100%; max-width: 600px; height: auto;"/>
     </td>
   </tr>
   <tr>
-    <td>
+    <td style="text-align: center; vertical-align: middle; padding: 10px;">
       <img src="https://github-readme-stats.vercel.app/api?username=924973292&show_icons=true&theme=merko&hide_title=true" 
            alt="GitHub Stats" 
-           style="border-radius: 15px; margin: 10px 0; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
+           style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); width: 100%; max-width: 300px; height: auto;"/>
     </td>
-    <td>
+    <td style="text-align: center; vertical-align: middle; padding: 10px;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=924973292&layout=compact&theme=tokyonight" 
            alt="Top Languages" 
-           style="border-radius: 15px; margin: 10px 0; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
+           style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); width: 100%; max-width: 300px; height: auto;"/>
     </td>
   </tr>
 </table>
