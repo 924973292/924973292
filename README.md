@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23CDA85C&bg=%23121212&center=true&vCenter=true&width=900&lines=Hi+there+👋%2C+I'm+Yuhao+Wang.;Welcome+to+my+GitHub+universe;Exploring+Multi-modal+Learning+Frontiers;Let's+connect+and+collaborate!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=900&lines=Hi+there+👋,+I+am+Yuhao+Wang.;+Welcome+to+My+Github!;+I'm+interested+in+Multi-modal+learning!;+Feel+free+to+ask+me+any+questions!)](https://git.io/typing-svg)
+
 
 <table style="width: 100%; border-collapse: separate; border-spacing: 20px; margin: 30px 0;">
   <tr>
