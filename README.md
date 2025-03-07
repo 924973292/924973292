@@ -1,18 +1,45 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=900&lines=Hi+there+👋,+I+am+Yuhao+Wang.;+Welcome+to+My+Github!;+I'm+interested+in+Multi-modal+learning!;+Feel+free+to+ask+me+any+questions!)](https://git.io/typing-svg)
- 
-[![](https://img.shields.io/badge/Homepage-000000?style=for-the-badge&logo=edge&logoColor=FFFFFF)](https://924973292.github.io//)
-[![](https://img.shields.io/badge/Google%20Scholar-000000?style=for-the-badge&logo=google-scholar&logoColor=FFFFFF)](https://scholar.google.com/citations?user=WZvjVLkAAAAJ&hl=zh-CN&oi=sra)
-[![](https://img.shields.io/github/stars/924973292?style=for-the-badge&logo=github&label=Stars&labelColor=000000&color=FFFFFF)](https://github.com/924973292)
 
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40"/>
+  🐾
+</div>
 
 <table>
   <tr>
-    <td colspan="2"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=924973292&theme=default" border=0></td>
+    <td colspan="2">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=924973292&theme=radical" 
+           alt="Profile Details" 
+           style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
+    </td>
   </tr>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=924973292&show_icons=true&icon_color=CE1D2D&hide_title=true" border=0></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=924973292&layout=compact" border=0></td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=924973292&show_icons=true&theme=merko&hide_title=true" 
+           alt="GitHub Stats" 
+           style="border-radius: 15px; margin: 10px 0; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=924973292&layout=compact&theme=tokyonight" 
+           alt="Top Languages" 
+           style="border-radius: 15px; margin: 10px 0; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
+    </td>
   </tr>
 </table>
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=924973292" alt="924973292" /></p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=924973292&style=flat-square&color=blueviolet" 
+       alt="Visitor Count" 
+       style="margin: 20px 0; box-shadow: 0 4px 8px rgba(0,0,0,0.1); border-radius: 10px;"/>
+</div>
+
+<!-- 添加猫咪彩蛋 -->
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/924973292/cat-widget@main/cat-typing.gif" 
+       width="300" 
+       alt="Coding Cat" 
+       style="border-radius: 15px; margin: 20px 0; box-shadow: 0 8px 16px rgba(0,0,0,0.2);"/>
+</div>
