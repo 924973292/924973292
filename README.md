@@ -43,7 +43,7 @@
       🐾 发现彩蛋！
     </summary>
     <div style="margin-top: 20px;">
-      <img src="[https://cdn.jsdelivr.net/gh/924973292/cat-widget@main/cat-typing.gif](https://tenor.com/zh-CN/view/cat-typing-on-keyboard---i'm-cooking-gif-17132887018908126710)" 
+      <img src="https://cdn.jsdelivr.net/gh/924973292/cat-widget@main/cat-typing.gif" 
            alt="Coding Cat" 
            style="border-radius: 15px; box-shadow: 0 8px 16px rgba(0,0,0,0.2); width: 300px;"/>
     </div>
