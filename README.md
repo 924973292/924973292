@@ -37,9 +37,25 @@
 </div>
 
 <!-- 添加猫咪彩蛋 -->
-<div align="center">
+<div align="center" style="position: relative;">
+  <div style="width: 300px; height: 200px; background-color: #f0f8ff; border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); display: flex; justify-content: center; align-items: center; cursor: pointer;">
+    🐱 Click！
+  </div>
   <img src="https://cdn.jsdelivr.net/gh/924973292/cat-widget@main/cat-typing.gif" 
-       width="300" 
        alt="Coding Cat" 
-       style="border-radius: 15px; margin: 20px 0; box-shadow: 0 8px 16px rgba(0,0,0,0.2);"/>
+       style="border-radius: 15px; margin: 20px 0; box-shadow: 0 8px 16px rgba(0,0,0,0.2); width: 300px; position: absolute; top: 0; left: 0; opacity: 0; transition: opacity 0.3s ease-in-out;" 
+       id="catEgg"/>
 </div>
+
+<script>
+  const catEgg = document.getElementById('catEgg');
+  const container = catEgg.parentElement;
+
+  container.addEventListener('mouseenter', () => {
+    catEgg.style.opacity = '1';
+  });
+
+  container.addEventListener('mouseleave', () => {
+    catEgg.style.opacity = '0';
+  });
+</script>
